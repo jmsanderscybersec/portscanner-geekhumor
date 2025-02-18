@@ -1,7 +1,9 @@
 **Dependencies for the program:**
 
 Python3 
+
 Scapy: pip install scapy for scanner functionality 
+
 tqdm: pip install tqdm for progress bar
 
 **Commands** 

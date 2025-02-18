@@ -1,12 +1,11 @@
-Welcome to the portscanner-geekhumor wiki!
-
-Dependencies for the program:
+**Dependencies for the program:**
 
 Python3 
 Scapy: pip install scapy for scanner functionality 
 tqdm: pip install tqdm for progress bar
 
-Commands Example: sudo python3 scanner.py TARGETIPADDRESS -p 1-100 -t XYZ --tcp
+**Commands** 
+Example: sudo python3 scanner.py TARGETIPADDRESS -p 1-100 -t XYZ --tcp
 
 Whereas -p is the port range to scan
 
@@ -14,4 +13,4 @@ Whereas XYZ can be: SYN for TCP SYN Scan CONNECT for TCP Connect Scan ACK for TC
 
 Use --udp for UDP scan
 
-Only scan what you have permission to scan
+**Only scan what you have permission to scan**
